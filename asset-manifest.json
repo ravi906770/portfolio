@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.9f8248e6.css",
+    "main.js": "/portfolio/static/js/main.dcc8f5f3.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/Ravi.jpg": "/portfolio/static/media/Ravi.1276aee40a2bcc151745.jpg",
+    "static/media/ravi.png": "/portfolio/static/media/ravi.c2d15d3aacd5de0705a0.png",
+    "index.html": "/portfolio/index.html",
+    "main.9f8248e6.css.map": "/portfolio/static/css/main.9f8248e6.css.map",
+    "main.dcc8f5f3.js.map": "/portfolio/static/js/main.dcc8f5f3.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f8248e6.css",
+    "static/js/main.dcc8f5f3.js"
+  ]
+}
